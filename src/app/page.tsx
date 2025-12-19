@@ -27,9 +27,14 @@ const page = () => {
     <figure className='md:flex justify-between items-center bg-blue-100 rounded-x1 p-8 md:p-1 dark bd-blue-800,'>
     </figure>
 <figure className="md:flex justify-between items-center bg-blue-100 rounded-x1 p-8 md:p-1 dark bd-blue-800">
+
+
+  <div className="w-full text-center mb-2">
+    <a href="https://www.facebook.com/share/1CpQRQDDPp/" className="text-medium font-semibold text-blue-600 underline">
+      Click here to follow us on Facebook
+    </a>
+  </div>
 </figure>
-    
-        
         
         
       </div>
