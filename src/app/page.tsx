@@ -6,7 +6,7 @@ const page = () => {
       <figure className=" bg-black square p-4 dark:bg-black-800">
         <header className='text-white text-center text-5x1 mt-1 font-bold'>MARHABA PROPERTIES</header>
         </figure>
-        <figure className='md:flex justify-between items-center bg-blue-100 rounded-x1 p-0 md:p-1 dark bd-blue-800'>
+        <figure className='md:flex justify-between items-center bg-blue-300 rounded-x1 p-0 md:p-1 dark bd-blue-800'>
   <img className="w-48 h-48 rounded" src="/7.jpg" alt="mp4 flex" width="384" height="512"/>  
     <blockquote>
       <p className="text-center text-2x1 font-bold text-red mt-7">
